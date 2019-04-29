@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2", "Game2\Game2.csproj", "{14B5C72A-D7E0-4F31-9521-D35C26A0E121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Debug|x86.Build.0 = Debug|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Release|x86.ActiveCfg = Release|Any CPU
+		{14B5C72A-D7E0-4F31-9521-D35C26A0E121}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E16C1DC-E511-4B89-9F8E-77B542D4E094}
+	EndGlobalSection
+EndGlobal
